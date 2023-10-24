@@ -258,3 +258,47 @@ body {
     margin-right: 15px;
     transition: all 0.3s ease;
 }
+
+@media (max-width: 1120px) {
+    .foto {
+        /*width: 220px;*/
+        /*height: 220px;*/
+        margin-right: 50px;
+        /*border-radius: 50%;*/
+        /*background-image: url("../Images/foto Lehchylin Anatoliy+.jpg");*/
+        /*background-size: cover;*/
+        /*background-repeat: no-repeat;*/
+    }
+}
+
+@media (max-width: 1064px) {
+    .foto {
+        margin-right: 20px;
+    }
+
+    .name-foto-wrapper {
+        padding-left: 10px;
+    }
+}
+
+@media (max-width: 1006px) {
+    .foto {
+        width: 180px;
+        height: 180px;
+        margin-right: 50px;
+    }
+
+    #name {
+        font-weight: 500;
+        font-size: 35px;
+        margin-bottom: 15px;
+    }
+
+    #pdf {
+        width: 220px;
+        height: 35px;
+        font-weight: 500;
+        font-size: 14px;
+        margin: 5px 5px 0 0;
+    }
+}
