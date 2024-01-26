@@ -36,6 +36,18 @@ const pharmacyTechnologies = document.getElementById('pharmacy-technologies');
 const pharmacyDescription = document.getElementById('pharmacy-description');
 const pharmacyRole = document.getElementById('pharmacy-role');
 
+const carmapDevelopment = document.getElementById('carmap-development-time');
+const carmapTechnologies = document.getElementById('carmap-technologies');
+const carmapDescription = document.getElementById('carmap-description');
+
+const hierarchyDevelopment = document.getElementById('hierarchy-development-time');
+const hierarchyTechnologies = document.getElementById('hierarchy-technologies');
+const hierarchyDescription = document.getElementById('hierarchy-description');
+
+const commentsDevelopment = document.getElementById('comments-development-time');
+const commentsTechnologies = document.getElementById('comments-technologies');
+const commentsDescription = document.getElementById('comments-description');
+
 const shopDevelopment = document.getElementById('shop-development-time');
 const shopTechnologies = document.getElementById('shop-technologies');
 const shopDescription = document.getElementById('shop-description');
@@ -130,6 +142,18 @@ function updateLanguage(language) {
     pharmacyTechnologies.innerHTML = language.pharmacyTechnologies;
     pharmacyDescription.innerHTML = language.pharmacyDescription;
     pharmacyRole.innerHTML = language.pharmacyRole;
+
+    carmapDevelopment.innerHTML = language.carmapDevelopment;
+    carmapTechnologies.innerHTML = language.carmapTechnologies;
+    carmapDescription.innerHTML = language.carmapDescription;
+
+    hierarchyDevelopment.innerHTML = language.hierarchyDevelopment;
+    hierarchyTechnologies.innerHTML = language.hierarchyTechnologies;
+    hierarchyDescription.innerHTML = language.hierarchyDescription;
+
+    commentsDevelopment.innerHTML = language.commentsDevelopment;
+    commentsTechnologies.innerHTML = language.commentsTechnologies;
+    commentsDescription.innerHTML = language.commentsDescription;
 
     shopDevelopment.innerHTML = language.shopDevelopment;
     shopTechnologies.innerHTML = language.shopTechnologies;
