@@ -26,7 +26,7 @@
   "projectTitle": "Проекти",
   "chatDevelopment": "<span style='font-weight: 700'>Строк розробки:</span> 2 тижня",
   "chatTechnologies": "<span style='font-weight: 700'>Використані технології:</span> React, Redux-toolkit, HTML, CSS, JavaScript, Vite, MUI, Postman, MongoDB,\nNodeJS, Express, Socket.IO, Git, Responsive web Design",
-  "chatDescription": "<span style='font-weight: 700'>Опис:</span> Чат з можливістю додавання, редагування та видалення повідомлень та фото. Реалізована реєстрація, зміна аватарки та пароля, видалення користувача та всіх його повідомлень.",
+  "chatDescription": "<span style='font-weight: 700'>Опис:</span> чат з можливістю додавання, редагування та видалення повідомлень та фото. Реалізована реєстрація, зміна аватарки та пароля, видалення користувача та всіх його повідомлень.",
   "pharmacyDevelopment": "<span style='font-weight: 700'>Строк розробки:</span> 2 місяця",
   "pharmacyTechnologies": "<span style='font-weight: 700'>Використані технології:</span> React, Redux-toolkit, React-router, React Testing Library,\nJEST, Axios, Formik, Yup, HTML, SCSS, JavaScript, Vite, MUI, Postman, MongoDB,\nNodeJS, Express, Cloudinary, Git, Responsive web Design",
   "pharmacyDescription": "<span style='font-weight: 700'>Опис:</span> інтернет-аптека з реєстрацією та особистим кабінетом. Функціонал: фільтрація за\nкатегоріями, ціною, формою та ін.; відгуки про товар; придбання товарів з отриманням\nлиста-підтвердження на пошту; чат з фармацевтом; додавання товарів в Обране та\nКорзину; переглянуті та акційні товари",

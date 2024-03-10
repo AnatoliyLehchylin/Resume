@@ -26,7 +26,7 @@
   "projectTitle": "Project",
   "chatDevelopment": "<span style='font-weight: 700'>Development time:</span> 2 weeks",
   "chatTechnologies": "<span style='font-weight: 700'>Technologies used:</span> React, Redux-toolkit, HTML, CSS, JavaScript, Vite, MUI, Postman, MongoDB,\nNodeJS, Express, Socket.IO, Git, Responsive web Design",
-  "chatDescription": "<span style='font-weight: 700'>Description:</span> Chat with the ability to add, edit and delete messages and photos. Realized registration, changing the avatar and password, deleting the user and all his messages.",
+  "chatDescription": "<span style='font-weight: 700'>Description:</span> chat with the ability to add, edit and delete messages and photos. Realized registration, changing the avatar and password, deleting the user and all his messages.",
   "pharmacyDevelopment": "<span style='font-weight: 700'>Development time:</span> 2 months",
   "pharmacyTechnologies": "<span style='font-weight: 700'>Technologies used:</span> React, Redux-toolkit, React-router, React Testing Library,\nJEST, Axios, Formik, Yup, HTML, SCSS, JavaScript, Vite, MUI, Postman, MongoDB,\nNodeJS, Express, Cloudinary, Git, Responsive web Design",
   "pharmacyDescription": "<span style='font-weight: 700'>Description:</span> an online pharmacy with registration and the availability of a personal\noffice. Functional: product filtering by categories, price, form, etc.; product reviews;\npurchase of goods with receipt of a confirmation letter by mail; chat with a\npharmacist; adding products to Favorites and Cart; reviewed and promotional items",
