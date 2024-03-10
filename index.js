@@ -175,15 +175,15 @@ function updateLanguage(language) {
     cardsDescription.innerHTML = language.cardsDescription;
     cardsRole.innerHTML = language.independentRole;
 
-    forkioDevelopment.innerHTML = language.forkioDevelopment;
-    forkioTechnologies.innerHTML = language.forkioTechnologies;
-    forkioDescription.innerHTML = language.forkioDescription;
-    forkioRole.innerHTML = language.independentRole;
-
-    humDevelopment.innerHTML = language.humDevelopment;
-    humTechnologies.innerHTML = language.humTechnologies;
-    humDescription.innerHTML = language.humDescription;
-    humRole.innerHTML = language.independentRole;
+    // forkioDevelopment.innerHTML = language.forkioDevelopment;
+    // forkioTechnologies.innerHTML = language.forkioTechnologies;
+    // forkioDescription.innerHTML = language.forkioDescription;
+    // forkioRole.innerHTML = language.independentRole;
+    //
+    // humDevelopment.innerHTML = language.humDevelopment;
+    // humTechnologies.innerHTML = language.humTechnologies;
+    // humDescription.innerHTML = language.humDescription;
+    // humRole.innerHTML = language.independentRole;
 }
 
 startLanguage();
