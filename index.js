@@ -36,6 +36,10 @@ const chatTechnologies = document.getElementById('chat-technologies');
 const chatDescription = document.getElementById('chat-description');
 const chatRole = document.getElementById('chat-role');
 
+const coinDevelopment = document.getElementById('coin-development-time');
+const coinTechnologies = document.getElementById('coin-technologies');
+const coinDescription = document.getElementById('coin-description');
+
 const pharmacyDevelopment = document.getElementById('pharmacy-development-time');
 const pharmacyTechnologies = document.getElementById('pharmacy-technologies');
 const pharmacyDescription = document.getElementById('pharmacy-description');
@@ -147,6 +151,10 @@ function updateLanguage(language) {
     chatTechnologies.innerHTML = language.chatTechnologies;
     chatDescription.innerHTML = language.chatDescription;
     chatRole.innerHTML = language.independentRole;
+
+    coinDevelopment.innerHTML = language.coinDevelopment;
+    coinTechnologies.innerHTML = language.coinTechnologies;
+    coinDescription.innerHTML = language.coinDescription;
 
     pharmacyDevelopment.innerHTML = language.pharmacyDevelopment;
     pharmacyTechnologies.innerHTML = language.pharmacyTechnologies;
