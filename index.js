@@ -25,6 +25,7 @@ const ruLangText = document.getElementById('ru-lang-text');
 
 const experienceTitle = document.getElementById('experience-title');
 const experienceText = document.getElementById('experience-text');
+const experienceText1 = document.getElementById('experience-text1');
 
 const summaryTitle = document.getElementById('summary-title');
 const summaryText = document.getElementById('summary-text');
@@ -141,6 +142,7 @@ function updateLanguage(language) {
 
     experienceTitle.textContent = language.experienceTitle;
     experienceText.innerHTML = language.experienceText;
+    experienceText1.innerHTML = language.experienceText1;
 
     summaryTitle.textContent = language.summaryTitle;
     summaryText.innerHTML = language.summaryText;
